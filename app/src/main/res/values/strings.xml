@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <!-- Heafer text for the list of toppings -->
+    <string name="toppings">Toppings</string>
+    <!-- Thank you message for the order summary. -->
+    <string name="thank_you">Thank you!</string>
+
+</resources>
